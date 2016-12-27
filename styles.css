@@ -1,0 +1,28 @@
+.content{
+	margin-left: auto ;
+	margin-right: auto ;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #D3D3D3;
+	border-radius: 5px;
+	padding: 10px;
+	background-color: #D2B48C ;
+}
+
+#outer.content {
+	width: 300px;  
+	box-shadow: 5px 5px 5px 0px rgba(192,192,192,0.5);
+}
+
+.animalImg{
+	padding-bottom: 10px;
+}
+
+.factsList{
+	list-style-type: none;
+	padding: 0;
+}
+
+.factsList li span{
+	font-weight: bold;
+}
